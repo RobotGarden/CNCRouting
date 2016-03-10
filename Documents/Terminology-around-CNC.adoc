@@ -1,0 +1,86 @@
+
+= Terminology around CNC.
+
+This tutorial won't turn you into a machinist, but it will give you enough information to learn more about CNC machines.
+
+
+== Parts of a CNC machine
+.image
+[TIP]
+====
+ need image here of the CNC
+
+====
+
+=== Major Components
+* [underline]#**Y-Axis**#  
+If standing in front of the machine, the Y-axis moved forward and backwards and in the case of Shapeoko, is responsible for moving the entire gantry.  
+(Some people refer to the Y Axis as 'the gantry'. For the sake of being correct, you need to know that the gantry is actually the entire assembly, not just the Y-axis!)  
+
+* [underline]#**X-Axis**#  
+This is the part of the CNC machine that moves left and right (when looking at the machine from the front). The X axis is responsible for carrying the Z-Axis around the machine.   
+
+* [underline]#**Z-Axis**#  
+The business end of your CNC machine! The Z-axis carries the spindle, and is responsible for raising and lowering your cutting tool to the correct height. 
+
+* [underline]#**Spindle**#  
+Your workhorse! The spindle is the tool you are using to turn your end mills (bits). You can use anything from a basic rotary tool (like a dremel) to a purpose build spindle designed specifically for high performance machining. 
+
+
+=== Controller
+
+.image
+[TIP]
+====
+ need image here of the controller board
+
+====
+
+[underline]#**The Brains**#  
+The controller provides the link between your computer and your CNC machine. Most modern machines, especially in the hobby, pro-sumer, and home use, prefer connection via USB, so no special computer is required to connect to the controller.  
+
+=== **Software**
+To a lot of people, this is the scary part. With terms like CAD/CAM, gcode, and machine control software, it's easy to get intimidated. FEAR NOT! Here's what each one means.
+
+**Machine Controller**
+
+.screen shot
+[TIP]
+====
+ need image here of the screen shot Machine Controller software
+
+====
+
+This is the software that allows you to operate your CNC machine. The machine control software gives you the ability to turn your machine on and off, load your gcode, jog your machine, and set your job zero point. Think of the machine controller as the cock-pit of the CNC machine!
+
+=   
+CAD/CAM  
+
+.screen shot
+[TIP]
+====
+ need image here of the screen shot of software
+
+====
+
+[underline]#**CAD (Computer Aided Design)**#
+CAD is where you turn your idea into a digital design! CAD is software that allows you to draw on your computer. This can be anything from a full blown parametric 3Dmodeling package like Solidworks, to something as simple as Adobe Illustrator. Don't let the word CAD scare you. All it means is 'something to draw in'.  
+
+[underline]#**CAM (Computer Aided Manufacturing)**#  
+CAM is where you turn your CAD design into something your CNC machine can understand. CAM is software that lets you specify HOW your design is going to be made on your CNC machine. Your CAM program will output g-code. Like most terminology around CNC, CAM sounds scarier than it really is.  
+
+[underline]#**G-code**#  
+G-code is 'the language of industry'. G-code is a set of instructions for your machine that tell it things like where to go, how fast to move, to turn the spindle on and off, along with a host of other actions.  
+
+Although possible to do, [underline]#You never have to write gcode!#  99% of people never even look at the gcode file their CAM program produces. We only bring it up so you know what people are talking about when they say 'g-code'. 
+
+.**G-code**
+[NOTE]
+====
+ (also RS-274), which has many variants, is the common name for the most widely used numerical control (NC) programming language. It is used mainly in computer-aided manufacturing to control
+====
+
+
+
+
+

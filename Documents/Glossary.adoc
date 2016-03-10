@@ -1,0 +1,15 @@
+[glossary]
+== Glossary
+
+work needed here 
+
+
+[glossary]
+G-code::
+    G-code (also RS-274), which has many variants, is the common name for the most widely used https://en.wikipedia.org/wiki/Numerical_control[numerical control] (NC) https://en.wikipedia.org/wiki/Programming_language[programming language]. It is used mainly inhttps://en.wikipedia.org/wiki/Computer-aided_manufacturing[computer-aided manufacturing] to control automated machine tools.
+
+CAD (Computer Aided Design)::
+  **Computer-aided design** (**CAD**) is the use of computer systems to aid in the creation, modification, analysis, or optimization of a design. CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing.CAD output is often in the form of electronic files for print, machining, or other manufacturing operations.
+  
+CAM (Computer Aided Manufacturing)::
+  CAM is where you turn your CAD design into something your CNC machine can understand. CAM is software that lets you specify HOW your design is going to be made on your CNC machine. Your CAM program will output g-code. Like most terminology around CNC, CAM sounds scarier than it really is.  
