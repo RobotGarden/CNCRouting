@@ -7,9 +7,12 @@ Author Name
 :numbered:
 
 
-intro to CNC
+CNC Stuff
 
 include::End-Mills.adoc[]
+
+include::Materials-Nomad883.adoc[]
+
 
 Software
 
@@ -17,4 +20,20 @@ include::Machine-Operating-Check-List-shapeOko.adoc[]
 
 
 
-include::Materials-Nomad883.adoc[]
+Safety stuff (need more work )
+
+include::Safety-Rules-CNC.adoc[]
+
+include::Personnal-Protective-Equiptment.adoc[]
+
+include::Hazards.adoc[]
+
+
+work flow
+
+include::Basic-workflow-2D.adoc[]
+
+include::Basic-workflow-3D.adoc[]
+
+
+include::Glossary.adoc[]
