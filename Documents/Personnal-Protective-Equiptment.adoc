@@ -1,0 +1,52 @@
+== Personnal Protective Equiptment (PPE)
+
+Before entering a machine shop you must wear personal protective equipment at all times. These
+should include:
+
+=== Eye protection
+It is necessary to wear safety glasses, goggles or face shields at all times in areas where small
+flying fragments or dust can be encountered when working in the machine shop.
+
+=== Hearing protection
+* Hearing protection must be worn at all times. The type of hearing protection chosen will
+depend on:
+** personal choice by the operator for comfort and fit
+** noise reduction required (ear muffs will give better noise reduction than ear plugs).
+
+=== Footwear
+
+Suitable footwear must be worn. A closed shoe with leather uppers or safety boots would be
+appropriate.
+
+=== Clothing
+It is important to remember that while you are working in the machine shop you should not
+be wearing loose clothing or jewellery, which may get caught in revolving cutters. The moving
+parts of a machine revolve at high speeds and if any loose clothing or jewellery is caught in the
+revolving cutters you will be dragged into the machine causing serious injury or death.
+
+.Rick and Control
+[width="75%",options="header"]
+|====================
+|Risk |Risk control 
+|Long hair |hair covered.
+
+Tie hair back.
+
+Wear a hair net. 
+
+|Noise | Wear earmuffs.
+
+Wear ear plugs. 
+|Eyes | Wear safety glasses.
+
+Wear safety shield.
+|Footwear Wear | closed shoe with non-skid sole.
+|Dust |  Wear dust mask.
+|Chemicals |  Wear gloves or protective clothing.
+
+Wear face mask.
+|Guards | Guards on machines must be used at
+all times.
+
+|====================
+
