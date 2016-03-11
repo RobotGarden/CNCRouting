@@ -1,0 +1,45 @@
+= Hazards
+
+Here are the three steps involved in dealing with hazards:
+
+. Spot the hazard
+A hazard is anything that could hurt you or someone else, is unsafe, or could cause an accident.
+Use all your senses to spot hazards – look around, listen, notice any strange smells (like smoke or
+chemicals) and use your knowledge about things that might be dangerous.
+. Assess the risk
+Work out how likely is it that the hazard will hurt someone, and how badly they could be hurt.
+Always tell someone about hazards you can't fix yourself, and remember it is more urgent to make
+the changes if the hazard is likely to cause serious injury.
+. Minimise the risk
+Fix the hazard yourself if you can, or tell someone who is able to fix it. The best way to fix the
+hazard is to get rid of it, but as this is not always possible there are some ways you can make the
+hazard less dangerous:
+.. Substitute it for a less hazardous material or item.
+.. Isolate it to an area where it’s more out of harm’s way, such as a locked room.
+.. Add safeguards – for example, put clear guards around cutting or slicing equipment or
+warning signs for people to see.
+.. Use personal protective equipment and clothing any time you are working with hazardous
+materials and/or equipment.
+
+HAZARD CONTROL
+
+Hierarchy of Control
+
+How to control a hazard and minimise the risk of an injury.
+
+.Rick and Control
+[width="75%",options="header"]
+|====================
+|Example of hazard| What to do| How to do it
+|Electrical hazards |Eliminate |Install electric droppers instead of using
+extension cords.
+|Toxic chemicals| Substitute| Introduce less toxic materials (polishes,
+adhesives etc.).
+|Noise| Enclose| Install canopies to the noisiest machines.
+|Flying particles| Isolation| Set aside specific areas for grinding.
+|Machining dust| Engineer controls| Install and use dust extraction equipment.
+|Slip / trip hazards |Work practices Adopt better housekeeping procedures.
+|Fatigue| Administrate| Rotate job tasks amongst workers.
+|New equipment| Training |Staff development programs.
+|Dust / noise, etc| PPE| Use personal protective equipment. 
+|====================
