@@ -1,0 +1,79 @@
+== Safety Rules for the CNC
+
+. Do not leave the room while it is on, at least one person should be in the room at all times observing the machine when it is running.
+
+. Do not put your hand or any other part of your body any closer than 6 inches to the bit when it is moving. The router will not stop and can cause severe damage.
+
+. If the bit breaks or something seems to be broken or misbehaving, hit the pause button on the computer screen. If it needs to be shut off immediately press the red emergency stop button on the front of the bed.
+
+. Make sure no screws are on the path of the router. The screw will break the bit and will normally stay embedded into the project, but is capable of flying off and hitting someone.
+
+. After use of the machine clean the floor and all of your excess material out of the room, the sawdust on the floor and scraps can be hazardous and cause an injury.
+
+. Leave the CNC room clean and the way it was when you began your project. The Your Mom is not responsible for cleaning.
+
+. Use hearing protection while the CNC is running.
+
+. Wear protective safety glasses when the CNC is running.
+
+
+
+note more safety
+
+==== Below are some general personal safety rules that you can use as a guide only.  We might like to add any other rules that apply to RG.
+
+* DO:
+** Always wear safety glasses and hearing protection when operating CNC machines.
+** Always wear safety glasses when closely observing cutting tools.
+** Always wear safety boots or other suitable footwear.
+** Always keep long hair covered when operating CNC machines.
+** Always keep hands clear of moving parts during machining operations.
+** Always stand clear of the machine while it is running and warn others of the dangers of
+being too close.
+** Always avoid contact with cutting edges when handling tools or changing tools by hand. 
+** Always turn the CNC machine off completely and clean it up when you have finished using
+it.
+ 
+* DON'T:
+** Never wear gloves.
+** Never wear loose clothing or jewellery.
+** Never reach into a CNC machine while it is running.
+** Never place hands near a revolving spindle.
+** Never leave the machine so that someone else is able to start it by pressing the cycle start
+button. 
+
+=== Below are some general tooling safety rules that you can use as a starting guide. We might like to add any other rules that apply to RG.
+
+* DO:
+** Always check that the machine is not operating when loading a tool magazine.
+** Always check that tools are in good condition, for example, sharp and free of cracks.
+** Always check that tools are set correctly.
+** Always check that the correct tool data is entered into the CNC program.
+** Always test tools before use.
+** Always check that the seating surfaces are clean before installing tools.
+** Always check that spindle direction is correct for right-hand or left-hand operation.
+** Only use tools within the limits specified by the manufacturer.
+** Only tighten tools to recommended torque values.
+* DON'T:
+** Never use blunt tools.
+** Never use cracked or chipped tools.
+** Never use tools with damaged tungsten tips.
+
+==== Below are some general machine safety rules that you can use as a guide only. We might like to add any other rules that apply to RG.
+
+* DO:
+** Always keep the area around the machine clear of obstacles.
+** Always stack material where you can reach it but where it is clear of the moving parts of the
+machine. 
+** Always check that tools are sharp and set correctly.
+** Always check that the correct tool data is entered into the CNC program.
+** Always make sure that all guards are in position while the machine is in operation.
+** Always make sure that all work and fixtures are clamped securely before starting machine.
+** Always make sure spindle direction is correct for right-hand or left-hand operation.
+** Always conduct a dry run to ensure the program is correct.
+** Always follow company policy on correct procedures when handling or lifting parts or
+tooling.
+* DON'T:
+** Do not use the machine table as a workbench.
+** Do not use compressed air to blow chips from the parts of the machine, machine surfaces,
+cabinets, controls or floor around the machine. 
